@@ -1,0 +1,5 @@
+# réglages locaux de l'outil de développement (chemins propres à un ordinateur)
+.claude/
+# fichiers intermédiaires ; l'application publiée est dans docs/
+site/dist/
+node_modules/
